@@ -6,7 +6,7 @@ FocalDesk is a Windows desktop overlay that turns icon chaos into a calm, organi
 🌐 Website & purchase: focaldesk.net · $4.99, one-time, yours forever. No subscription, no account, no telemetry.
 
 ⬇ Download
-Download the latest version — Windows 10/11, 64-bit.
+Download the latest version for Windows 10/11, 64-bit.
 
 The download is free; a license key (from focaldesk.net) is required to use the app. Lost your key? Recover it at focaldesk.net.
 
